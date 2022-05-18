@@ -1,2 +1,2 @@
-Design System set up with styled components
+Design System set up in React with styled components
 
